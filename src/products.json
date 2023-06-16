@@ -1,0 +1,7 @@
+[{"id":1,"title":"Moto","description":"Tiene 2 ruedas","price":600,"thubnail":"img","code":"codigo 1","stock":13},
+{"id":2,"title":"Auto","description":"Tiene 4 ruedas","price":1500,"thubnail":"img","code":"codigo 2","stock":3},
+{"id":3,"title":"Bici","description":"Tiene 2 ruedas","price":250,"thubnail":"img","code":"codigo 3","stock":10},
+{"id":4,"title":"Triciclo","description":"Tiene 3 ruedas","price":100,"thubnail":"img","code":"codigo 4","stock":40},
+{"id":5,"title":"Cuatri","description":"Tiene 4 ruedas","price":500,"thubnail":"img","code":"codigo 5","stock":10},
+{"id":6,"title":"Avion","description":"Tiene 3 ruedas","price":250,"thubnail":"img","code":"codigo 6","stock":10},
+{"id":7,"title":"Barco","description":"No tiene ruedas","price":250,"thubnail":"img","code":"codigo 7","stock":10}]
